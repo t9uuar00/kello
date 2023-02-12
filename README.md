@@ -1,3 +1,3 @@
 # kello
 
-Clock made with HTML, CSS and JS
+Digital clock made with HTML, CSS and JS
